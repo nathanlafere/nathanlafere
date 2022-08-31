@@ -1,4 +1,4 @@
-## Olá! Eu sou o Nathan 🐱‍👤
+## Olá! Eu sou o Nathan 
 *  💻 - Atualmente estou aprendendo python
 *  🐾 - Buscando me aprimorar trabalhando em projetos próprios
  <div>
