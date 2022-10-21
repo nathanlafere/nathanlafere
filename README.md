@@ -7,9 +7,10 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanlafere&layout=compact&langs_count=10&theme=dark&title_color=79FE96&border_color=79FE96" />
 </div>
 
-# Atualmente estou aprendendo
+## Atualmente estou aprendendo
 <div>
- 💻 - Atualmente estou aprendendo python e JavaScript
+  [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
 </div>
 
  
