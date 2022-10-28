@@ -1,4 +1,4 @@
-# Olá! Eu sou o Nathan.
+<h1> Olá! Eu sou o Nathan.</h1>
 <div>
   
   *  ✉ Contatos
@@ -15,8 +15,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nathanlafere&show_icons=true&theme=dark&include_all_commits=true&&title_color=79FE96&border_color=79FE96&height=300" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanlafere&layout=compact&langs_count=10&theme=dark&title_color=79FE96&border_color=79FE96" />
 </div>
-
-## Atualmente estou aprendendo.
+<h2>Atualmente estou aprendendo.</h2>
 <div style="display: inline_block">
   <a href="https://www.python.org/">
     <img alt="py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
