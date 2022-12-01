@@ -30,6 +30,9 @@
   <a href="https://pt-br.reactjs.org/">
     <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
   </a>
+  <a href="https://www.typescriptlang.org/">
+    <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
 </div>
  <h2>📧 Contatos</h2>
   <a href="https://www.linkedin.com/in/nathan-paravidini/">
