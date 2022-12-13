@@ -34,14 +34,14 @@
     <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   </a>
 </div>
- <h2>📧 Contatos</h2>
-  <a href="https://www.linkedin.com/in/nathan-paravidini/">
-    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:nathanlafere@gmail.com">
-   <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>  
-  <div style="display: inline_block">
+<h2>📧 Contatos.</h2>
+<a href="https://www.linkedin.com/in/nathan-paravidini/">
+  <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:nathanlafere@gmail.com">
+ <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<div style="display: inline_block">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nathanlafere&show_icons=true&theme=dark&include_all_commits=true&&title_color=79FE96&border_color=79FE96&height=300" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanlafere&layout=compact&langs_count=10&theme=dark&title_color=79FE96&border_color=79FE96" />
 </div>
