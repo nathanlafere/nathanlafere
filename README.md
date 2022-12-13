@@ -9,7 +9,7 @@
   <a href="https://www.python.org/">
     <img alt="py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   </a>
-  <a href="https://www.javascript.com/">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </a>
   <a href="https://www.w3schools.com/html/">
@@ -24,7 +24,7 @@
 </div>
 <h2>Atualmente estou aprendendo.</h2>
 <div style="display: inline_block">
-  <a href="https://www.javascript.com/">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </a>
   <a href="https://pt-br.reactjs.org/">
@@ -40,10 +40,7 @@
   </a>
   <a href="mailto:nathanlafere@gmail.com">
    <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  
-  ##
-  
+  </a>  
   <div style="display: inline_block">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nathanlafere&show_icons=true&theme=dark&include_all_commits=true&&title_color=79FE96&border_color=79FE96&height=300" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanlafere&layout=compact&langs_count=10&theme=dark&title_color=79FE96&border_color=79FE96" />
