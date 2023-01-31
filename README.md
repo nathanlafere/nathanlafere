@@ -2,7 +2,6 @@
   
   * 🎓 Formado em Análise e Desenvolvimento de Sistemas.
   * 💻 Buscando me aprimorar trabalhando em projetos próprios.
-  * 📘 Participando do Bootcamp Orange Tech + da Dio.
 
 <h2>Meus conhecimentos.</h2>
 <div style="display: inline_block">
