@@ -23,6 +23,9 @@
 </div>
 <h2>Atualmente estou aprendendo.</h2>
 <div style="display: inline_block">
+  <a href="https://dev.java/learn/">
+    <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </a>
