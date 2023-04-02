@@ -20,20 +20,20 @@
   <a href="https://git-scm.com/">
     <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   </a>
+  <a href="https://react.dev/learn">
+    <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
 </div>
 <h2>Atualmente estou aprendendo.</h2>
 <div style="display: inline_block">
   <a href="https://dev.java/learn/">
     <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  </a>
-  <a href="https://pt-br.reactjs.org/">
-    <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <a href="https://spring.io/">
+    <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   </a>
 </div>
 <h2>📧 Contatos.</h2>
