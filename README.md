@@ -32,11 +32,8 @@
 </div>
 <h2>Atualmente estou aprendendo.</h2>
 <div style="display: inline_block">
-  <a href="https://dev.java/learn/">
-    <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  </a>
-  <a href="https://spring.io/">
-    <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <a href="https://www.python.org/">
+    <img alt="py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   </a>
 </div>
 <h2>📧 Contatos.</h2>
