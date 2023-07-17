@@ -33,7 +33,7 @@
 <h2>Atualmente estou aprendendo.</h2>
 <div style="display: inline_block">
   <a href="https://www.python.org/">
-    <img alt="py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   </a>
 </div>
 <h2>📧 Contatos.</h2>
