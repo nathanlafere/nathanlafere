@@ -30,10 +30,10 @@
     <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   </a>
 </div>
-<h2>Atualmente estou aprendendo.</h2>
+<h2>Atualmente estou estudando</h2>
 <div style="display: inline_block">
-  <a href="https://www.python.org/">
-    <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
+  <a href="https://dev.java/learn/">
+    <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   </a>
 </div>
 <h2>📧 Contatos.</h2>
